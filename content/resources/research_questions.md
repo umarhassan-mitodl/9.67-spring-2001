@@ -5,8 +5,6 @@ description: 'These questions are an example of the questions each student has t
 file: /courses/9-67-object-and-face-recognition-spring-2001/b5296a249369736bf8a8c9ee90dfb66f_research_questions.pdf
 file_size: 82765
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

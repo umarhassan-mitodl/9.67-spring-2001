@@ -3,8 +3,6 @@ content_type: page
 description: This section provides information on the course assignments, including
   a term project, a report, and research questions that students must produce for
   each class.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

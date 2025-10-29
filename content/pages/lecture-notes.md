@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides notes on a guest presentation to the class from
   a police sketch artist.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
